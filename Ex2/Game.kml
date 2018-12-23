@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Folder>
+<name/>
+<Placemark>
+<name/>
+<description><![CDATA[ID: <b>1</b><br/>: <b></b>]]></description>
+<Point>
+<coordinates>472.0,237.0,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name/>
+<description><![CDATA[ID: <b>1</b><br/>: <b></b>]]></description>
+<Point>
+<coordinates>35.20363011490684,32.105000608695654,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name/>
+<description><![CDATA[ID: <b>0</b><br/>: <b></b>]]></description>
+<Point>
+<coordinates>149.0,468.0,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name/>
+<description><![CDATA[ID: <b>2</b><br/>: <b></b>]]></description>
+<Point>
+<coordinates>241.0,1033.0,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>
